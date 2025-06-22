@@ -1,0 +1,6 @@
+step 1 : Start
+step 2 : Define variable num1 and num2 and assign value to it
+step 3 : Add num1 and num2 and store the answer in sum variable.
+            sum = num1 + num2
+step 4 : print sum variable
+stpe 5 : Stop
